@@ -15,8 +15,6 @@
 ### Database Systems
 
 <img height="32" width="32" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor" />&nbsp;
-<img height="32" width="32" src="https://icongr.am/devicon/postgresql-original.svg?size=128&color=currentColor" />&nbsp;
-<img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/1200px-Sqlite-square-icon.svg.png" />&nbsp;
 
 ### Tools and Frameworks
 <img height="32" width="32" src="https://icongr.am/devicon/dot-net-original-wordmark.svg?size=128&color=currentColor" />&nbsp;
