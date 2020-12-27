@@ -44,6 +44,5 @@ return 0,
 <p align="center">
   <a href="https://github.com/TheTokyo">
     <img src="https://github-readme-stats.vercel.app/api?username=TheTokyo&hide_border=true&show_icons=true" alt="TheTokyo's stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheTokyo&hide_border=true&layout=compact" alt="Tokyo's GitHub languages">
   </a>
 </p>
