@@ -3,8 +3,6 @@
 <p align="left">
 </p>
 <div align="center">
-<details>
-<summary>My Tech Skills</summary>
 
 ### Programming Languages
 
@@ -33,7 +31,6 @@
 
 </div>
 
-</details>
 
 <hr>
 
