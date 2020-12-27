@@ -1,34 +1,6 @@
 ### Hello World! <img src="wave.gif" width="25px"/>
 
 <p align="left">
-
-```python
-class YonLiud:
-    def __init__(self):
-        self.username = 'YonLiud'
-        self.age = 17
-        self.name = 'Yonatan Mark Liudmirsky'
-        self.languages = {
-            "English":  "Intermediate",
-            "Hebrew":   "Native language",
-            "Russian":  "Native language"
-        }
-        self.education = {
-            "Programming": (
-                ["IT and Data Security", "Microsoft's Sans Park"]
-                ["Python & Javascript", "Self Education"],
-                ["Linux Usage", "Self Education"],
-                ["Pentesting", "Hack The Box"]
-            ),
-            "Physics": "Weizmann Institute of Science",
-        }
-    def __str__(self):
-        return self.name
-if __name__ == '__main__':
-    me = YonLiud()
-
-```
-
 </p>
 <div align="center">
 <details>
@@ -71,8 +43,8 @@ if __name__ == '__main__':
 <hr>
 
 <p align="center">
-  <a href="https://github.com/YonLiud">
-    <img src="https://github-readme-stats.vercel.app/api?username=YonLiud&hide_border=true&show_icons=true" alt="YonLiud's GitHub stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YonLiud&hide_border=true&layout=compact" alt="YonLiud's GitHub languages">
+  <a href="https://github.com/TheTokyo">
+    <img src="https://github-readme-stats.vercel.app/api?username=TheTokyo&hide_border=true&show_icons=true" alt="TheTokyo's stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheTokyo&hide_border=true&layout=compact" alt="Tokyo's GitHub languages">
   </a>
 </p>
